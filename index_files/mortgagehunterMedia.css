@@ -1,0 +1,290 @@
+
+@media screen and (max-width: 1024px) {
+	#footerinner {
+		width: 90%;
+	}
+}
+
+@media screen and (max-width: 1000px) {
+    #starthere {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    #trustlogos img {
+        max-width: 33%;
+    }
+    .redbutton {
+        width: 100% !important;
+        margin-bottom: 7px;
+    }
+    #awards img {
+        margin: 10px 0;
+        max-width: 30%;
+    }
+    .testimonial {
+        margin: 15px;
+        max-width: 100%;
+        padding: 15px 15px 20px;
+    }
+}
+
+@media screen and (max-width: 800px) and (min-width: 600px) {
+    .sixer {
+        max-width: 48%;
+    }
+    .testimonial {
+        margin: 15px;
+        max-width: 100%;
+        padding: 15px 15px 20px;
+    }
+}
+
+@media screen and (max-width: 599px) {
+    .sixer {
+        max-width: 98%;
+    }
+}
+
+@media screen and (max-width: 799px) { 
+	
+	#row1 {
+		padding: 0;
+	}
+	
+    #thelogo {
+        width: 43%;
+		padding-top: 21px;
+    }
+
+    h1 {
+        font-size: 29px;
+        margin-bottom: 12px;
+    }
+	h2 {
+		margin-bottom: 10px;
+	}
+
+    h3 {
+        font-size: 24px;
+        margin-bottom: 15px;
+    }
+    p {
+        line-height: 17px;
+        font-size: 14px;
+    }
+	
+	#row2inner p {
+		margin-top: 7px;
+	}
+    
+    body select {
+        width: 100% !important;
+		margin-left: 0 !important;
+		padding-bottom: 5px !important;
+		margin-bottom: 10px !important;
+		display: table !important;
+		font-size: 18px !important;
+		height: 50px !important;
+		display: table !important;
+    }
+   body input {
+	   	width: 100% !important;
+        margin: 0 !important;
+        margin-bottom: 10px !important;
+        font-size: 18px !important; /* 18px */
+        height: 50px !important;
+		padding-bottom: 0px !important;
+		display: table !important;
+    }
+	
+	#EstimatedProp1, #EstimatedProp2 {
+		font-size: 27px !important;
+	}
+	
+	.namerLHunter, .namerFHunter, .namerInHunter {
+		width: 100% !important;
+	}
+
+    .phonenumberLHunter, .phonenumberFHunter {
+        width: 100% !important;
+        margin-bottom: 15px !important;
+    }
+	
+	#amountLife1Over {
+		font-size: 30px !important;
+	}
+	
+	#postcodeFuneral {
+		width: 100% !important;
+	}
+
+    #page7Hunter .redbutton, #page8lHunter .redbutton {
+        max-width: 100%;
+    }
+
+    #row2inner {
+		width: 100%;
+        max-width: 100%;
+		padding: 6px;
+		padding-left: 15px;
+		padding-right: 15px;
+    }
+	
+    #row2 {
+        padding: 0;
+    }
+
+    .formpage {
+        padding: 20px;
+    }
+
+    #page7 .redbutton {
+        max-width: 98%;
+    }
+    .namer {
+        margin-right: 0 !important;
+        width: 90%;
+        max-width: 90%;
+        padding-left: 10%;
+    }
+    .timeselect {
+        margin-bottom: 10px;
+        padding-left: 0;
+        text-align: center;
+    }
+    #emailaddress {
+        font-size: 20px;
+    }
+    #phonenumber {
+        font-size: 24px;
+    }
+
+    #dafooter {
+        padding: 20px;
+    }
+    #footerinner {
+       width: 100%;
+    }
+	
+	#amountLife1, #amountLife2 {
+		width: 100% !important;
+		font-size: 28px !important;
+	}
+	
+	body #phonenumberMobLife {
+        margin-right: 0 !important;
+    }
+	
+	.ui-slider {
+		width: 90%;
+		margin: auto;
+	}
+	
+	.page8lHunterTitle {
+        width: 48% !important;
+		margin-top: 0;
+		margin-bottom: 7px;
+    }
+
+    body .dobLHunter {
+        width: 29% !important;
+        margin: 0 !important;
+        margin-bottom: 0 !important;
+        font-size: 20px !important;
+        margin-left: 10px !important;
+        padding-left: 10px !important;
+		display: initial !important;
+    }
+	
+	/* Animation 
+	.GoTop {
+		animation: GoTop .2s 1 forwards;
+		-webkit-animation: GoTop .2s 1 forwards;
+		-moz-animation: GoTop .2s 1 forwards;
+	}
+
+	@keyframes GoTop {
+		0% { top: 0 }
+		100% { top: -170px }
+	}
+
+	@-webkit-keyframes GoTop {
+		0% { top: 0 }
+		100% { top: -170px }
+	}
+
+	@-moz-keyframes GoTop {
+		0% { top: 0 }
+		100% { top: -170px }
+	}*/
+	
+	/* IsaSmart Hunter */
+	.formIsa {
+        width: 100%;
+        margin: 0;
+        margin-bottom: 10px;
+    }
+
+    body .formIsa h3, #page3IS h3, #page6IS h3 {
+
+        font-size: 22px;
+        margin-bottom: 0;
+    }
+
+    body .formIsa input {
+        width: 100% !important;
+    }
+
+    .page2IS, 
+    .page3IS, 
+    .page4IS, 
+    .page5IS, 
+    .page6IS {
+        margin: 18px auto 0;
+    }
+
+    #page4IS .formIsa {
+        width: 31%;
+    }
+
+    #page4IS .formIsa .dobLHunter {
+        width: 100% !important;
+    }
+	
+	#page2IS input {
+		font-size: 32px !important;
+	}
+	
+	.formBlk {
+		width: 100%;
+	}
+}
+
+@media screen and (max-width: 740px) and (min-width: 665px) {
+	body .dobLHunter{
+		width: 31% !important;
+	}
+	
+	body .postcodeMix {
+		width: 43% !important;
+		display: initial !important;
+	}
+	
+	body .namerLHunter {
+		width: 42% !important;
+		display: initial !important;
+		margin-right: 10px !important;
+	}
+	
+	body .phonenumberLHunter, body .phonenumberFHunter {
+		width: 42% !important;
+		margin-bottom: 0 !important;
+	}
+	
+	#phonenumberMobLife, #phonenumberLandFuneral {
+		margin-right: 15px !important;
+	}
+
+}
